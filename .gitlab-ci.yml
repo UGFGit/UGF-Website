@@ -1,0 +1,53 @@
+stages:
+    - build
+    - deploy
+
+build-dev:
+  stage: build
+  tags:
+    - utopia-land-dev
+  script:
+    - docker build -t app-front .
+  rules:
+        - if: '$CI_COMMIT_MESSAGE =~ /dev/ && $CI_COMMIT_BRANCH == "master"'
+          when: always
+
+deploy-dev:
+  stage: deploy
+  tags:
+    - utopia-land-dev
+  script:
+    - set +e
+    - docker stop app-front
+    - docker rm app-front
+    - set -e
+    - docker run --restart=unless-stopped -d -p 127.0.0.1:5001:5001 --name app-front app-front
+    - docker system prune -f --filter "until=24h"
+  rules:
+        - if: '$CI_COMMIT_MESSAGE =~ /dev/ && $CI_COMMIT_BRANCH == "master"'
+          when: on_success
+
+build-prod:
+  stage: build
+  tags:
+    - utopia-land
+  script:
+    - docker build -t app-front .
+  rules:
+    - if: '$CI_COMMIT_MESSAGE =~ /prod/ && $CI_COMMIT_BRANCH == "master"'
+      when: always
+
+deploy-prod:
+  stage: deploy
+  tags:
+    - utopia-land
+  script:
+    - set +e
+    - docker stop app-front
+    - docker rm app-front
+    - set -e
+    - docker run --restart=unless-stopped -d -p 127.0.0.1:5001:5001 --name app-front app-front
+    - docker system prune -f --filter "until=24h"
+  rules:
+    - if: '$CI_COMMIT_MESSAGE =~ /prod/ && $CI_COMMIT_BRANCH == "master"'
+      when: on_success

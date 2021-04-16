@@ -1,0 +1,198 @@
+<svg width="503" height="529" viewBox="0 0 503 529" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<circle cx="251.45" cy="251.45" r="251.45" fill="white" fill-opacity="0.02"/>
+<circle cx="251.45" cy="251.45" r="250.95" stroke="#22BBDD" stroke-opacity="0.4" stroke-dasharray="10 10"/>
+<circle opacity="0.1" cx="251.406" cy="251.495" r="117.483" fill="#141413"/>
+<circle cx="251.503" cy="251.398" r="51.9841" fill="#141413"/>
+<circle cx="251.406" cy="251.495" r="167.908" stroke="#22BBDD" stroke-opacity="0.4" stroke-dasharray="10 10"/>
+<circle cx="251.45" cy="251.45" r="78.3511" stroke="#22BBDD" stroke-opacity="0.4" stroke-dasharray="10 10"/>
+<circle opacity="0.3" cx="88.9039" cy="278.307" r="32.6192" fill="#53A5F8"/>
+<circle opacity="0.3" cx="88.815" cy="63.8885" r="32.6192" fill="#53A5F8"/>
+<circle opacity="0.3" cx="241.176" cy="495.405" r="32.6192" fill="#53A5F8"/>
+<circle opacity="0.3" cx="451.539" cy="96.0513" r="32.6192" fill="#53A5F8"/>
+<path d="M254.434 477.787L231.962 484.423C231.506 484.567 231.108 484.852 230.825 485.237C230.542 485.623 230.389 486.088 230.388 486.566V504.926C229.653 504.748 228.898 504.655 228.141 504.651C224.419 504.651 221.399 506.664 221.399 509.146C221.399 511.628 224.419 513.641 228.141 513.641C231.863 513.641 234.883 511.628 234.883 509.146V492.734L252.862 487.466V500.432C252.127 500.253 251.372 500.16 250.615 500.156C246.893 500.156 243.873 502.169 243.873 504.651C243.873 507.133 246.893 509.146 250.615 509.146C254.337 509.146 257.357 507.134 257.357 504.651V479.928C257.357 479.576 257.273 479.228 257.114 478.913C256.954 478.599 256.722 478.326 256.438 478.117C256.153 477.909 255.824 477.77 255.475 477.713C255.127 477.656 254.771 477.681 254.434 477.787Z" fill="#22BBDD"/>
+<path d="M457.785 107.44C457.785 109.978 455.212 112.033 452.042 112.033C448.873 112.033 446.3 109.978 446.3 107.44C446.3 104.901 448.873 102.846 452.042 102.846C455.212 102.846 457.785 104.901 457.785 107.44Z" fill="#22BBDD"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M457.785 84.4709V107.44H455.488V84.4709H457.785Z" fill="#22BBDD"/>
+<path d="M455.488 84.0574C455.488 83.5266 455.672 83.0123 456.009 82.602C456.346 82.1916 456.814 81.9105 457.334 81.8065L464.225 80.4284C464.558 80.3618 464.902 80.3699 465.231 80.4522C465.561 80.5344 465.868 80.6888 466.131 80.9041C466.394 81.1194 466.605 81.3903 466.751 81.6972C466.896 82.0042 466.972 82.3396 466.972 82.6793V86.7677L455.488 89.0646V84.0574Z" fill="#22BBDD"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M430.223 103.994C430.223 103.69 430.344 103.398 430.559 103.182C430.774 102.967 431.067 102.846 431.371 102.846H439.41C439.715 102.846 440.007 102.967 440.222 103.182C440.438 103.398 440.559 103.69 440.559 103.994C440.559 104.299 440.438 104.591 440.222 104.806C440.007 105.022 439.715 105.143 439.41 105.143H431.371C431.067 105.143 430.774 105.022 430.559 104.806C430.344 104.591 430.223 104.299 430.223 103.994ZM430.223 94.8068C430.223 94.5022 430.344 94.2101 430.559 93.9947C430.774 93.7793 431.067 93.6583 431.371 93.6583H448.598C448.902 93.6583 449.194 93.7793 449.41 93.9947C449.625 94.2101 449.746 94.5022 449.746 94.8068C449.746 95.1113 449.625 95.4035 449.41 95.6188C449.194 95.8342 448.902 95.9552 448.598 95.9552H431.371C431.067 95.9552 430.774 95.8342 430.559 95.6188C430.344 95.4035 430.223 95.1113 430.223 94.8068ZM430.223 85.6193C430.223 85.3147 430.344 85.0226 430.559 84.8073C430.774 84.5919 431.067 84.4709 431.371 84.4709H448.598C448.902 84.4709 449.194 84.5919 449.41 84.8073C449.625 85.0226 449.746 85.3147 449.746 85.6193C449.746 85.9239 449.625 86.216 449.41 86.4314C449.194 86.6468 448.902 86.7677 448.598 86.7677H431.371C431.067 86.7677 430.774 86.6468 430.559 86.4314C430.344 86.216 430.223 85.9239 430.223 85.6193Z" fill="#22BBDD"/>
+<path d="M86.6936 80.0206C86.6936 83.5819 83.0839 86.4664 78.6363 86.4664C74.1887 86.4664 70.5791 83.5819 70.5791 80.0206C70.5791 76.4593 74.1887 73.5748 78.6363 73.5748C83.0839 73.5748 86.6936 76.4593 86.6936 80.0206Z" fill="#22BBDD"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M86.6936 47.7917V80.0206H83.4707V47.7917H86.6936Z" fill="#22BBDD"/>
+<path d="M83.4707 47.2114C83.4712 46.4667 83.7295 45.745 84.2019 45.1692C84.6743 44.5934 85.3316 44.199 86.0619 44.053L95.7306 42.1193C96.198 42.0259 96.6803 42.0373 97.1427 42.1527C97.6052 42.2681 98.0363 42.4847 98.4049 42.7868C98.7736 43.0889 99.0707 43.469 99.2748 43.8997C99.4789 44.3304 99.5849 44.8011 99.5852 45.2777V51.0145L83.4707 54.2373V47.2114Z" fill="#22BBDD"/>
+<path d="M81.798 271.244C83.2034 271.244 84.5773 271.658 85.7459 272.434C86.9145 273.21 87.8253 274.313 88.3631 275.604C88.9009 276.894 89.0416 278.315 88.7675 279.685C88.4933 281.055 87.8165 282.313 86.8227 283.301C85.8289 284.289 84.5627 284.962 83.1843 285.234C81.8059 285.507 80.3771 285.367 79.0786 284.832C77.7802 284.298 76.6704 283.392 75.8895 282.231C75.1087 281.069 74.692 279.704 74.692 278.307C74.692 276.434 75.4406 274.637 76.7733 273.312C78.1059 271.988 79.9133 271.244 81.798 271.244ZM81.798 264.18C78.9871 264.18 76.2394 265.009 73.9022 266.561C71.565 268.113 69.7434 270.32 68.6678 272.901C67.5921 275.482 67.3106 278.322 67.859 281.063C68.4074 283.803 69.761 286.32 71.7486 288.296C73.7361 290.271 76.2685 291.617 79.0254 292.162C81.7822 292.707 84.6398 292.427 87.2367 291.358C89.8336 290.289 92.0532 288.478 93.6149 286.155C95.1765 283.832 96.01 281.101 96.01 278.307C96.01 274.56 94.5127 270.967 91.8474 268.318C89.1821 265.669 85.5672 264.18 81.798 264.18ZM104.893 278.307C105.947 278.307 106.977 278.617 107.853 279.2C108.73 279.782 109.413 280.609 109.816 281.577C110.22 282.545 110.325 283.61 110.12 284.638C109.914 285.665 109.406 286.609 108.661 287.35C107.916 288.091 106.966 288.595 105.932 288.8C104.898 289.004 103.827 288.899 102.853 288.498C101.879 288.097 101.047 287.418 100.461 286.547C99.8756 285.676 99.563 284.652 99.563 283.604C99.563 282.199 100.125 280.852 101.124 279.858C102.123 278.865 103.479 278.307 104.893 278.307Z" fill="#22BBDD"/>
+<g opacity="0.5">
+<rect x="208.812" y="207.544" width="83.9137" height="87.1032" fill="url(#pattern0)"/>
+<path d="M283.988 262.346L283.215 243.765L278.938 230.089C278.938 230.064 278.914 230.064 278.914 230.04L271.157 226.899L264.851 218.225C264.851 218.2 264.827 218.2 264.802 218.2L255.185 217.21L242.596 216.291C242.572 216.291 242.572 216.291 242.548 216.291L229.959 225.208L217.588 239.053C217.588 239.053 217.563 239.077 217.563 239.101L218.627 259.084L223.29 272.084C223.29 272.108 223.314 272.108 223.338 272.132L232.617 274.645L236.894 284.576C236.894 284.601 236.918 284.625 236.942 284.625H247.236L257.602 285.881H257.626L271.786 276.917L283.915 262.395C283.988 262.371 283.988 262.371 283.988 262.346ZM259.946 264.618L271.665 276.844L263.981 279.261L247.405 284.48L252.89 275.805L259.946 264.618ZM232.496 274.355L218.82 259.181L226.528 260.148L227.954 260.317L232.496 274.38V274.355ZM283.046 243.717L265.455 245.456L271.109 227.068L277.536 236.033L283.046 243.717ZM239.238 265.536L228.099 260.22L236.362 242.122L245.109 268.339L239.238 265.536ZM255.113 217.379L254.001 231.007L238.585 230.04L241.582 227.745L255.113 217.379ZM246.801 243.161L236.58 241.904L254.05 231.152L265.261 245.432L246.801 243.161ZM253.856 231.128L236.459 241.832L238.465 230.161L253.856 231.128ZM245.182 268.146L236.483 242.025L245.254 243.113L265.286 245.577L245.279 268.339L245.182 268.146ZM265.358 245.384L254.171 231.103L271.012 227.02L265.358 245.384ZM254.122 230.983L255.234 217.355L270.94 226.899L254.122 230.983ZM238.416 230.016L230.152 225.28L254.871 217.427L238.416 230.016ZM236.338 241.88L222.759 240.648L238.344 230.234L236.338 241.88ZM227.929 260.172L223.967 259.688L218.723 259.036L222.541 240.938L226.335 254.542L227.929 260.172ZM229.548 264.787L228.123 260.365L231.916 262.177L245.085 268.46L232.714 274.525L229.548 264.787ZM265.261 245.77L259.921 264.473L245.424 268.339L265.261 245.77ZM259.825 264.618L259.317 265.415L247.308 284.407L245.303 268.508L259.825 264.618ZM265.406 245.626L279.179 260.196L260.018 264.424L265.406 245.626ZM265.503 245.577L283.07 243.837L279.252 260.123L265.503 245.577ZM230.032 225.328L238.295 230.089L222.71 240.503L230.032 225.328ZM236.29 242.001L228.026 260.075L222.638 240.745L236.29 242.001ZM245.182 268.532L247.187 284.456L232.786 274.621L245.182 268.532ZM271.786 276.748L260.066 264.545L279.204 260.317L271.786 276.748ZM283.867 262.25L279.373 260.196L283.118 244.2L283.867 262.25ZM278.841 230.137L282.997 243.427L271.278 227.068L278.841 230.137ZM270.867 226.73L262.821 221.825L255.427 217.355L264.73 218.297L270.867 226.73ZM242.596 216.412L254.847 217.306L240.688 221.801L230.346 225.087L242.596 216.412ZM222.541 240.6L217.733 239.077L229.766 225.618L222.541 240.6ZM217.684 239.198L222.493 240.745L218.723 258.625L217.684 239.198ZM223.387 272.036L218.844 259.35L232.496 274.5L223.387 272.036ZM236.991 284.528L232.81 274.79L247.067 284.528H236.991ZM257.626 285.785L247.55 284.552L271.399 277.062L257.626 285.785ZM272.027 276.482L279.324 260.317L283.021 262.008L283.819 262.371L272.027 276.482Z" fill="#22BBDD"/>
+<rect x="220.584" y="216.047" width="19.1372" height="19.1372" fill="url(#pattern1)"/>
+<rect x="220.875" y="216.337" width="18.5573" height="18.4993" fill="url(#pattern2)"/>
+<rect x="233.052" y="207" width="19.1372" height="19.1372" fill="url(#pattern3)"/>
+<rect x="233.341" y="207.29" width="18.4993" height="18.4993" fill="url(#pattern4)"/>
+<rect x="226.905" y="232.69" width="19.1372" height="19.1372" fill="url(#pattern5)"/>
+<rect x="227.195" y="233.038" width="18.4993" height="18.4993" fill="url(#pattern6)"/>
+<rect x="250.45" y="255.133" width="19.1372" height="19.1372" fill="url(#pattern7)"/>
+<rect x="250.799" y="255.481" width="18.4993" height="18.4993" fill="url(#pattern8)"/>
+<rect x="237.807" y="275.14" width="19.1372" height="19.1952" fill="url(#pattern9)"/>
+<rect x="238.156" y="275.488" width="18.4993" height="18.4993" fill="url(#pattern10)"/>
+<rect x="274.4" y="252.929" width="19.1372" height="19.1372" fill="url(#pattern11)"/>
+<rect x="274.748" y="253.277" width="18.4993" height="18.4993" fill="url(#pattern12)"/>
+<rect x="273.473" y="234.546" width="19.1372" height="19.1372" fill="url(#pattern13)"/>
+<rect x="273.821" y="234.836" width="18.4993" height="18.4993" fill="url(#pattern14)"/>
+<rect x="269.355" y="220.744" width="19.1372" height="19.1952" fill="url(#pattern15)"/>
+<rect x="269.703" y="221.092" width="18.4993" height="18.4993" fill="url(#pattern16)"/>
+<rect x="244.534" y="221.846" width="19.1372" height="19.1372" fill="url(#pattern17)"/>
+<rect x="244.883" y="222.194" width="18.4993" height="18.4993" fill="url(#pattern18)"/>
+<rect x="213.161" y="231.356" width="19.1372" height="19.1372" fill="url(#pattern19)"/>
+<rect x="213.509" y="231.646" width="18.4993" height="18.4993" fill="url(#pattern20)"/>
+<rect x="208" y="229.791" width="19.1372" height="19.1372" fill="url(#pattern21)"/>
+<rect x="208.291" y="230.139" width="18.5573" height="18.4993" fill="url(#pattern22)"/>
+<rect x="209.044" y="249.798" width="19.1372" height="19.1372" fill="url(#pattern23)"/>
+<rect x="209.392" y="250.146" width="18.4993" height="18.4993" fill="url(#pattern24)"/>
+<rect x="235.604" y="259.25" width="19.1372" height="19.1372" fill="url(#pattern25)"/>
+<rect x="235.895" y="259.598" width="18.5573" height="18.4993" fill="url(#pattern26)"/>
+<rect x="223.252" y="265.455" width="19.1372" height="19.1952" fill="url(#pattern27)"/>
+<rect x="223.543" y="265.803" width="18.4993" height="18.4993" fill="url(#pattern28)"/>
+<rect x="262.28" y="267.079" width="19.1372" height="19.1372" fill="url(#pattern29)"/>
+<rect x="262.57" y="267.427" width="18.4993" height="18.4993" fill="url(#pattern30)"/>
+<rect x="269.819" y="250.842" width="19.1372" height="19.1952" fill="url(#pattern31)"/>
+<rect x="270.109" y="251.19" width="18.4993" height="18.4993" fill="url(#pattern32)"/>
+<rect x="255.901" y="236.17" width="19.1372" height="19.1372" fill="url(#pattern33)"/>
+<rect x="256.191" y="236.46" width="18.5573" height="18.4993" fill="url(#pattern34)"/>
+<rect x="261.352" y="217.728" width="19.1372" height="19.1372" fill="url(#pattern35)"/>
+<rect x="261.7" y="218.018" width="18.4993" height="18.4993" fill="url(#pattern36)"/>
+<rect x="245.289" y="208.102" width="19.1372" height="19.1372" fill="url(#pattern37)"/>
+<rect x="245.637" y="208.45" width="18.4993" height="18.4993" fill="url(#pattern38)"/>
+<rect x="228.993" y="220.918" width="19.1372" height="19.1372" fill="url(#pattern39)"/>
+<rect x="229.341" y="221.208" width="18.4993" height="18.5573" fill="url(#pattern40)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern10" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2"/>
+</pattern>
+<pattern id="pattern11" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern12" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern13" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5"/>
+</pattern>
+<pattern id="pattern14" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image6"/>
+</pattern>
+<pattern id="pattern15" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5"/>
+</pattern>
+<pattern id="pattern16" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern17" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern18" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern19" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image7"/>
+</pattern>
+<pattern id="pattern20" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern21" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5"/>
+</pattern>
+<pattern id="pattern22" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern23" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern24" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2"/>
+</pattern>
+<pattern id="pattern25" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern26" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2"/>
+</pattern>
+<pattern id="pattern27" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern28" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern29" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern30" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern31" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image7"/>
+</pattern>
+<pattern id="pattern32" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image6"/>
+</pattern>
+<pattern id="pattern33" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image7"/>
+</pattern>
+<pattern id="pattern34" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern35" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern36" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<pattern id="pattern37" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern38" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3"/>
+</pattern>
+<pattern id="pattern39" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5"/>
+</pattern>
+<pattern id="pattern40" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4"/>
+</pattern>
+<image id="image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABaoAAAXgCAYAAACw2n5tAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAU0AAAFNCAYAAACE8D3EAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAAFFCAYAAAB7dP9dAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image3" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAAFBCAYAAADg5b1LAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image4" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUEAAAFFCAYAAAByn18nAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image5" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVIAAAFNCAYAAABSVeehAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUEAAAFBCAYAAADpDh0xAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+<image id="image7" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAU0AAAFSCAYAAAB2cI2KAAAACXBIWXMAAC4jAAAuIwF4pT92AAAA"/>
+</defs>
+</svg>
